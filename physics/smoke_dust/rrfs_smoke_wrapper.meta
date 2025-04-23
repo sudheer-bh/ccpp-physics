@@ -636,7 +636,7 @@
   standard_name = emission_smoke_6hrly
   long_name = emission fire RRFS 6hr
   units = various
-  dimensions = (horizontal_loop_extent,4,5)
+  dimensions = (horizontal_loop_extent,5,6)
   type = real
   kind = kind_phys
   intent = in
